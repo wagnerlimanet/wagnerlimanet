@@ -19,7 +19,7 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ## Minhas Skills 💻
 #### Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=cian)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=21759B)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress&logoColor=cian)
