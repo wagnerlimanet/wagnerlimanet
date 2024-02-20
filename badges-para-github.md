@@ -982,7 +982,3 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 <p align="right">
   <img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" />
 </p>
-
- <a href = "https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
- </a>
