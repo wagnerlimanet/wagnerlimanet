@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.com?lines=Fala+Galera;Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=Fala+Galera;Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45Color=orange">
   </a>
 </p>
