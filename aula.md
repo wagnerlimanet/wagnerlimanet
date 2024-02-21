@@ -15,5 +15,6 @@
 
 <img src="https://img.shields.io/badge/html5-ff6600?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-0000ff?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 
-<img src="https://iwtraining.com.br/imagens/professor-wagner-lima-frontend-design-iwtraining.jpg">
 
+
+![professor-wagner-lima-frontend-design-iwtraining](https://github.com/wagnerlimanet/wagnerlimanet/assets/80631657/6b746c2d-2187-4a5f-b127-9ef4e365b8e4)
