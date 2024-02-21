@@ -5,6 +5,8 @@
   Esse perfil corresponde a minha conta de estudos de progamação.
 </p>
 
+![Barrinha de Status](http://img.shields.io/static/v1?label=PROCESSO&message=EM%20ANDAMENTO&color=ORANGE&style=for-the-badge)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	  <img src="https://readme-typing-svg.herokuapp.com?lines=Fala+Galera;Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
