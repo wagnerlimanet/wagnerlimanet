@@ -89,4 +89,6 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
   </a>
 </p>
 
+<p align="center">
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+</p>
