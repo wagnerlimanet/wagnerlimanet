@@ -47,7 +47,7 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-## Estatisticas do Github 📊
+## Estatísticas do Github 📊
 
 <details>
   <summary>⚡ Atividades Recentes</summary>
