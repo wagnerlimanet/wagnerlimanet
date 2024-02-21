@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
 	Sejam bem vindos!
-</h1>
+</h2>
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
