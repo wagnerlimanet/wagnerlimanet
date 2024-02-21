@@ -17,5 +17,6 @@
 <img src="https://img.shields.io/badge/css3-0000ff?style=for-the-badge&logo=css3&logoColor=white" />   
 
 
-
-<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />(https://www.facebook.com) 
+<a href="https://www.facebook.com">
+<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
