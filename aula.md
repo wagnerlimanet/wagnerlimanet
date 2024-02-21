@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.com?lines=Fala+Galera;Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45Color=orange">
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=Fala+Galera;Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
   </a>
 </p>
+
+| <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />   
