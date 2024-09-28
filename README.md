@@ -1,1 +1,3 @@
-O que você digitar aqui, será a página do seu perfil
+## UM POUCO SOBRE MIM
+
+Professor de desenvolvinto frontend, design e marketing digital
