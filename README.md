@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Geovane;Sou+dancarino,+loverboy,+garoto+de+programa+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
-
 <h2 align="center">
 	Sejam bem vindos!
 </h2>
