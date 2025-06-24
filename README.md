@@ -18,6 +18,7 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 
 ## Minhas Skills 💻
 #### Desenvolvimento
+![Database](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Database](https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=MICROSOFTSQL)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![JOOMLA](https://img.shields.io/badge/JOOMLA-000?style=for-the-badge&logo=joomla)
